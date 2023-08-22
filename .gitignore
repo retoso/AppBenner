@@ -1,0 +1,13 @@
+# Ignorar arquivos gerados pelo Visual Studio Code
+.vscode/
+
+# Ignorar arquivos binários e de compilação
+/bin/
+/obj/
+
+# Ignorar arquivos de configuração específicos do usuário
+*.userprefs
+*.suo
+
+# Ignorar arquivos de build do MSBuild
+*.msbuild
