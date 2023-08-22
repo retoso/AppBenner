@@ -1,0 +1,14 @@
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/bin/Debug/net7.0/MicroOndasApp
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/bin/Debug/net7.0/MicroOndasApp.deps.json
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/bin/Debug/net7.0/MicroOndasApp.runtimeconfig.json
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/bin/Debug/net7.0/MicroOndasApp.dll
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/bin/Debug/net7.0/MicroOndasApp.pdb
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/obj/Debug/net7.0/MicroOndasApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/obj/Debug/net7.0/MicroOndasApp.AssemblyInfoInputs.cache
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/obj/Debug/net7.0/MicroOndasApp.AssemblyInfo.cs
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/obj/Debug/net7.0/MicroOndasApp.csproj.CoreCompileInputs.cache
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/obj/Debug/net7.0/MicroOndasApp.dll
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/obj/Debug/net7.0/refint/MicroOndasApp.dll
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/obj/Debug/net7.0/MicroOndasApp.pdb
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/obj/Debug/net7.0/MicroOndasApp.genruntimeconfig.cache
+/home/renato/Documentos/GitHub/MOD_Benner/MicroOndasApp/obj/Debug/net7.0/ref/MicroOndasApp.dll
